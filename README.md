@@ -3,4 +3,4 @@ Starter
 
 Start your project by running this command:
 
-`git clone --bare https://github.com/mogusbi/starter project-dir-name`
+`git clone https://github.com/mogusbi/starter project-dir-name`
